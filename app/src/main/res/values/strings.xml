@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPagerExercise</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="screen_one">Hello blank fragment one</string>
+    <string name="screen_two">Hello blank fragment two</string>
+</resources>
